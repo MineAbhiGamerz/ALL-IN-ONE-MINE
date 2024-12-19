@@ -4,7 +4,7 @@ const lang = require('../../events/loadLanguage');
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('invite')
+        .setName('➕ invite')
         .setDescription(lang.inviteDescription),
     async execute(interaction) {
         const clientId = interaction.client.user.id; 
@@ -17,7 +17,7 @@ module.exports = {
             .setAuthor({ 
                 name: lang.inviteTitle, 
                 iconURL: lang.inviteImageURL,
-                url: "https://discord.gg/xQF9f9yUEM"
+                url: "https://discord.gg/fZQUcabh6b"
             })
             .setDescription(lang.inviteDescription.replace('{inviteURL}', inviteURL))
             .setTimestamp();
