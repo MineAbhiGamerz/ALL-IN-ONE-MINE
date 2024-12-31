@@ -84,7 +84,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**👑 Bot Developer:** <@1193934430872547363>\n`+
+                        `**Bot Developer:** TEAM MINE\n`+
                         `**Bot Version:** 1.1.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
@@ -93,12 +93,12 @@ module.exports = {
                         `**Enabled Categories:** ${enabledCategoriesList.join(', ')}\n`+
                         `**Disabled Categories:** ${disabledCategoriesList.join(', ')}\n`,
                     ],
-                    image: "https://cdn.discordapp.com/attachments/1318424638258417685/1318926945190416404/standard_6.gif?ex=676419f0&is=6762c870&hm=23f99ab208ee624e678e89a0569ca44d75c0e618b34469d03d5a4b8f38f20e88&",
+                    image: "https://cdn.discordapp.com/attachments/1322495380537212968/1323499993247645738/standard_2.gif?ex=6774bceb&is=67736b6b&hm=63bd3b0f0a64519f06f17f9d19531ed14f30cf0259c14a78e1fa286eb354e002&",
                     color: "#3498db",
-                    thumbnail: "https://cdn.discordapp.com/attachments/1318424638258417685/1318926777095290951/4297657_orig.gif?ex=676419c8&is=6762c848&hm=a47dbb7fd3d03f9088a0bfbea6d8e3b17c732dabbea711457d7b1d25eab19be6&",
+                    thumbnail: "https://cdn.discordapp.com/attachments/1322495380537212968/1323501047779426385/30895ff2-0dfc-4100-ac37-0f4dd3d17e9c.gif?ex=6774bde7&is=67736c67&hm=00358d39a609c4462f70ee852cef589d546115a34a0a000ebe939526eb18e82e&",
                     author: {
-                        name: 'All In One',
-                        iconURL: "https://cdn.discordapp.com/attachments/1318424638258417685/1318926777095290951/4297657_orig.gif?ex=676419c8&is=6762c848&hm=a47dbb7fd3d03f9088a0bfbea6d8e3b17c732dabbea711457d7b1d25eab19be6&",
+                        name: 'TEAM MINE | AIO',
+                        iconURL: "https://cdn.discordapp.com/attachments/1322495380537212968/1323501047779426385/30895ff2-0dfc-4100-ac37-0f4dd3d17e9c.gif?ex=6774bde7&is=67736c67&hm=00358d39a609c4462f70ee852cef589d546115a34a0a000ebe939526eb18e82e&",
                         url: "https://discord.gg/fZQUcabh6b"
                     }
                 });
